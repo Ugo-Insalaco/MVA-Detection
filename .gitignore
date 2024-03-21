@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+DBT.ipynb
+reduced_dbt.ipynb
+full_detection_noise.npz
+full_detection_sydney.npz
